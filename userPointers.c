@@ -13,5 +13,5 @@ void main() {
     int *ptr2 = &num2;
 
     int total = *ptr1 + *ptr2;
-    printf("%d\n", total);
+    printf("Total: %d\n", total);
 }
